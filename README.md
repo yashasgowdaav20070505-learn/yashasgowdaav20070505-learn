@@ -8,7 +8,7 @@
 
   <!-- SOCIAL & CONTACT LINKS (Replace '#' with your actual profile URLs later) -->
   <p align="center">
-    <a href="#" target="https://prisma-portfolio-creative-studio.ai.studio/">
+    <a href="https://prisma-portfolio-creative-studio.ai.studio/" target="https://prisma-portfolio-creative-studio.ai.studio/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="#" target="https://www.linkedin.com/in/yashas-gowda-a-v?utm_source=share_via&utm_content=profile&utm_medium=member_android">
